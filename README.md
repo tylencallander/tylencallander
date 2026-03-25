@@ -1,5 +1,3 @@
-I'm a third year CS student attending the University of Guelph
-
-Software Developer @ CIBC
+I'm a 4th year Computer Science student at the University of Guelph
 
 Software Lead @ xOrbita
